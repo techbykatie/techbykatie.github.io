@@ -7,6 +7,7 @@ h2 {
     font-family: "Press Start 2P", system-ui;
     font-weight: 400;
     font-style: normal;
+    color:rgb(190, 100, 182);
 }
   
 h1 {
@@ -48,6 +49,10 @@ article {
     max-width: 600px;
     padding: 20px;
     margin: 0 auto;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
 
 #headerpic {
@@ -65,9 +70,9 @@ article {
     color: rgb(255, 255, 255);
 }
 
-p {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+footer {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
